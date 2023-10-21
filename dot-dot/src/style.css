@@ -1,0 +1,29 @@
+body {
+  width: 800px;
+  height: 500px;
+}
+.board-box {
+  width: 300px;
+  height:300px;
+  margin-top: 50px;
+  margin: auto;
+  border: 1px solid #d0d0d068;
+}
+.field-size-btn {
+  width: 80px;
+  height: 20px;
+  float: right;
+  background-color: #d0d0d0;
+}
+.square {
+  width: 20px;
+  height: 20px;
+  background: #fff;
+  float: left;
+  font-size: 8px;
+  line-height: 20px;
+  padding: 0;
+  text-align: center;
+  border: .5px solid #d0d0d0;
+  box-sizing: border-box;
+}
